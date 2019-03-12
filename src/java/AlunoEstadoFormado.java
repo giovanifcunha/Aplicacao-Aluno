@@ -24,7 +24,7 @@ public class AlunoEstadoFormado implements AlunoEstado{
 
     @Override
     public String expulsar() {
-        return "Aluno formado não pode ser formado!";
+        return "Aluno formado não pode ser expulso!";
     }
 
     @Override

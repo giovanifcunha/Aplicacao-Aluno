@@ -1,6 +1,14 @@
 public class Aluno {
     AlunoEstado estado;
 
+    public AlunoEstado getEstado() {
+        return estado;
+    }
+
+    public void setEstado(AlunoEstado estado) {
+        this.estado = estado;
+    }
+
     public Aluno(){
        estado = new AlunoEstadoMatriculado();
     }
