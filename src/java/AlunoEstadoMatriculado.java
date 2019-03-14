@@ -8,32 +8,32 @@
 public class AlunoEstadoMatriculado implements AlunoEstado{
 
     @Override
-    public String matricular() {
+    public String matricular(Aluno aluno) {
         return "Aluno matriculado não pode matricular!";
     }
 
     @Override
-    public String trancar() {
+    public String trancar(Aluno aluno) {
         return "Aluno trancado!";
     }
 
     @Override
-    public String formar() {
+    public String formar(Aluno aluno) {
         return "Aluno formado!";
     }
 
     @Override
-    public String expulsar() {
+    public String expulsar(Aluno aluno) {
         return "Aluno expulso!";
     }
 
     @Override
-    public String jubilar() {
+    public String jubilar(Aluno aluno) {
         return "Aluno jubilado!";
     }
 
     @Override
-    public String evadir() {
+    public String evadir(Aluno aluno) {
         return "Aluno evadido!";
     }
 

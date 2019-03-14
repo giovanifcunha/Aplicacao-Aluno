@@ -14,27 +14,27 @@ public class Aluno {
     }
     
     public void matricular() {
-        estado.matricular();
+        estado.matricular(this);
     }
 
     public void trancar() {
-        estado.trancar();
+        estado.trancar(this);
     }
     
     public void formar(){
-        estado.formar();
+        estado.formar(this);
     }
     
     public void expulsar() {
-        estado.expulsar();
+        estado.expulsar(this);
     }
     
     public void jubilar() {
-        estado.jubilar();
+        estado.jubilar(this);
     }
 
     public void evadir() {
-        estado.evadir();
+        estado.evadir(this);
     }
 }
 

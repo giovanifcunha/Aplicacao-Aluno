@@ -5,8 +5,13 @@
         <group>
             <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/test/AlunoTest.java</file>
             <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstadoFormado.java</file>
+            <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstadoMatriculado.java</file>
             <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstadoTrancado.java</file>
+            <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstadoExpulso.java</file>
+            <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstadoEvadido.java</file>
+            <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstado.java</file>
             <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/Aluno.java</file>
+            <file>file:/G:/Biblioteca/Documentos/NetBeansProjects/Aplicacao-Aluno/src/java/AlunoEstadoJubilado.java</file>
         </group>
     </open-files>
 </project-private>

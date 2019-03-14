@@ -1,8 +1,8 @@
 public interface AlunoEstado {
-    public String matricular();
-    public String trancar();
-    public String formar();
-    public String expulsar();
-    public String jubilar();
-    public String evadir();
+    public String matricular(Aluno aluno);
+    public String trancar(Aluno aluno);
+    public String formar(Aluno aluno);
+    public String expulsar(Aluno aluno);
+    public String jubilar(Aluno aluno);
+    public String evadir(Aluno aluno);
 }
